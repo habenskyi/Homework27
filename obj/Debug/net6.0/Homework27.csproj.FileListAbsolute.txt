@@ -1,0 +1,15 @@
+C:\Cisharp\Seminar1\Homework27\bin\Debug\net6.0\Homework27.exe
+C:\Cisharp\Seminar1\Homework27\bin\Debug\net6.0\Homework27.deps.json
+C:\Cisharp\Seminar1\Homework27\bin\Debug\net6.0\Homework27.runtimeconfig.json
+C:\Cisharp\Seminar1\Homework27\bin\Debug\net6.0\Homework27.dll
+C:\Cisharp\Seminar1\Homework27\bin\Debug\net6.0\Homework27.pdb
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.csproj.AssemblyReference.cache
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.AssemblyInfoInputs.cache
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.AssemblyInfo.cs
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.csproj.CoreCompileInputs.cache
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.dll
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\refint\Homework27.dll
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.pdb
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\Homework27.genruntimeconfig.cache
+C:\Cisharp\Seminar1\Homework27\obj\Debug\net6.0\ref\Homework27.dll
